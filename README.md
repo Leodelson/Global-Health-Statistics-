@@ -19,12 +19,12 @@ Total Statistics Summary with Cards
 
 
 
-Total Health Access: 74.99M
-Total Mortality Rate: 5.05M
-Total Recovery Rate: 74.50M
-Avg. Per Capita Income: $50K
-Hospital Beds per 1000 People: 5.25
-Health Improvement in 5 Years: 5.00M
+#### Total Health Access: 74.99M
+#### Total Mortality Rate: 5.05M
+#### Total Recovery Rate: 74.50M
+#### Avg. Per Capita Income: $50K
+#### Hospital Beds per 1000 People: 5.25
+#### Health Improvement in 5 Years: 5.00M
 
 📌 Key Insight: Despite a significant mortality count, recovery rates and health access have improved globally, indicating effective interventions. However, access gaps and treatment disparities remain critical.
 
