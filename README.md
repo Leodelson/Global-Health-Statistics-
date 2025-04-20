@@ -10,6 +10,7 @@
 
 This dashboard presents an in-depth analysis of health outcomes worldwide, capturing mortality rates, treatment recovery, health access, and disease prevalence. These insights enable public health professionals, NGOs, and policy-makers to identify key health challenges and prioritize global interventions.
 
+
 # Key Insights and Analysis:
 
 Total Statistics Summary with Cards
@@ -37,6 +38,7 @@ Australia, Turkey, Japan, Israel, Angola, Indonesia (Each with approx. 3.74M acc
 📌 Key Insight: Some developed and developing nations still show low healthcare access figures, suggesting infrastructure or policy issues in healthcare delivery.
 
 
+
 ### Mortality Rate by Gender:
 ![Global Health Gender](https://github.com/user-attachments/assets/bb2f97ac-ad5c-48e2-bd66-65b66a0975d3)
 
@@ -48,6 +50,7 @@ Female: 1.68M (33.28%)
 Other: 1.68M (33.33%)
 
 📌 Key Insight: Mortality distribution is nearly equal across gender, showing no strong gender bias in death rates. This supports the view of disease severity being more influential than gender.
+
 
 
 
@@ -72,6 +75,7 @@ Parkinson's Disease (24.80M)
 📌 Key Insight: Zika and Rabies lead in terms of population affected. These diseases require targeted health campaigns and resource allocation.
 
 
+
 ### Top 4 Treatments Type by Recovery Rate:
 ![Global Health Treatment Type](https://github.com/user-attachments/assets/9239f6b5-baea-411d-afc5-1382ee4e55fb)
 
@@ -88,6 +92,7 @@ Medication (18.58M)
 
 
 
+
 ### Disease Trend Over Time (2000–2024):
 ![Global Health Disease Trends](https://github.com/user-attachments/assets/858b725b-1a64-4290-ad26-718424aed69f)
 
@@ -95,6 +100,7 @@ Medication (18.58M)
 This time-series visualization shows yearly population trends for the most impactful diseases.
 
 📌 Key Insight: Zika and Parkinson’s consistently affect more people over time, while Tuberculosis and Polio show declining trends—reflecting global health initiatives' success.
+
 
 ## Summary of Key Insights:
 Healthcare Access: Still limited in some countries including Australia and Angola.
@@ -106,6 +112,7 @@ Gender Equality in Health: Mortality is evenly distributed by gender.
 Effective Treatments: Surgery and Therapy lead in recovery rates.
 
 Positive Progress: 5 million lives improved in the last 5 years alone.
+
 
 ## Recommendations:
 For Governments & NGOs
@@ -122,6 +129,7 @@ For Researchers & Donors
 Fund vaccine research for Zika and Rabies.
 
 Support data systems for real-time health monitoring and outbreak response.
+
 
 ## Conclusion:
 The Global Health Statistics Dashboard offers a holistic view of health trends and challenges from 2000 to 2024. Through analyzing disease spread, recovery rates, treatment effectiveness, and gender equity, this project equips stakeholders with insights to drive better global health outcomes.
