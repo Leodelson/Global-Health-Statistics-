@@ -1,4 +1,4 @@
-# Global Health Statistics Dashboard
+# Global Health Statistics Insights 
 
 This Global Health Dashboard provides a comprehensive analysis of global health trends from 2000 to 2024. It visualizes critical health indicators across countries, diseases, treatment types, and gender—offering insights into mortality patterns, healthcare access, health improvements, and disease prevalence.
 
